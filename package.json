@@ -21,6 +21,7 @@
     "chokidar": "^3.5.3",
     "color-name": "^1.1.4",
     "cssesc": "^3.0.0",
+    "cssnano": "^5.1.15",
     "defined": "^1.0.1",
     "detective": "^5.2.1",
     "didyoumean": "^1.2.2",
